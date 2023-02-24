@@ -12,7 +12,7 @@ In this lab, we'll demonstrate how to manipulate the list. Learner should be abl
 
 ### List Manipulation Game
 
-***Rules of rthe game***
+***Rules of the game***
 
 - [ ] The game will start by presenting the user with a list of words.
 - [ ] The user will be given a target list that they must transform the original list into.
@@ -27,7 +27,7 @@ In this lab, we'll demonstrate how to manipulate the list. Learner should be abl
 - [ ] Remove a specific element from the list
 - [ ] Sort the list in ascending or descending order
 
-*** Implementation***
+***Implementation***
 
 Learners can implement the game using Python and its built-in list methods. Here are some suggestions to get started:
 
@@ -38,5 +38,5 @@ Learners can implement the game using Python and its built-in list methods. Here
 - Create a function to check if the current list matches the target list and end the game if it does.
 - With these basic functions, you can create a fun and challenging game that involves manipulating Python lists using the various methods and techniques you mentioned.
 
-Please find attached list_game.py for the sample game code.
+***Please find attached list_game.py for the sample game code.***
 
