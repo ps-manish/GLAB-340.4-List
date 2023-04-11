@@ -1,6 +1,6 @@
 [![Per Scholas](per_scholas_logo.png)](https://www.perscholas.org) 
 
-# GLAB-340.4.1-List
+# GLAB-340.5.1-List
 
 ## Introduction
 In this lab, learners will create a game that involves manipulating a list. The game will present the user with a list of words, and the user must perform various operations on the list to transform it into a target list.
